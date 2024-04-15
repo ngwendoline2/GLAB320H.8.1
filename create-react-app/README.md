@@ -1,0 +1,1 @@
+To get my code runing I had to create my create react app, npm create vite@latest, delite everything in app.jsx and in index.css  create reposotory and submit
